@@ -1,0 +1,7 @@
+{
+  "applicationName":"silver",
+  "version":"v1.0",
+  "forceUpdate":false,
+  "maintenance":false,
+  "env":"prod"
+}
